@@ -1,0 +1,6 @@
+@Sample_CRUD_HostAddress = http://localhost:5203
+
+GET {{Sample_CRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
